@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,700;0,900;1,700&display=swap');
+
+body{
+	font-family: 'Poppins', sans-serif;
+}
+
+.samsung-slider{
+	background-image: url('../img/slide-galaxy.jpg') !important;
+	height: 978px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.samsung-hero{
+	position: relative;
+}
+#hero h1{
+color:white;
+font-weight: 900;
+text-align: center;
+font-size: 6.1rem;
+padding-top: 257px;
+}
+#hero span{
+	position: absolute;
+	color:white;
+	font-weight: 900;
+	right:0px;
+	top:10px;
+}
+#hero p{
+	text-align: center;
+	padding-top: 514px;
+	color: white;
+	width: 494px;
+	margin: 0 auto;
+}
+#samsung-btn{
+right: 0px;
+position: absolute;
+bottom: 18px;
+}
+.sam-btn{
+	border:1px solid white;
+	background-color: rgb(0,0,0, 0.2);
+	color:white;
+}
+.card{
+	border:none !important;
+	background-color:transparent !important;
+}
+#footer p{
+	padding-top: 10px;
+	text-align: center;
+}
+#sociales{
+	width:30%;
+	margin:0 auto;
+}
+#footer{
+	padding:20px;
+}
+.fab{
+	font-size: 80px;
+}
+.odd{
+	background:#E7E7E7;
+}
+.card-title{
+	font-size: 50px;
+	font-weight: 700;
+}
+
